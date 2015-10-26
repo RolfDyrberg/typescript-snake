@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+.game-div {
+    display:block; 
+    margin: 0 auto; 
+    text-align:center;
+}
+
+#game-canvas {
+    border: 1px solid #c3c3c3; 
+    background-color: white; 
+}
